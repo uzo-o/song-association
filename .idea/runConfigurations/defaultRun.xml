@@ -1,0 +1,17 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="defaultRun" type="Application" factoryName="Application">
+    <option name="INCLUDE_PROVIDED_SCOPE" value="true" />
+    <option name="MAIN_CLASS_NAME" value="gui.SongAssociationGUI" />
+    <module name="song-association" />
+    <option name="PROGRAM_PARAMETERS" value="args" />
+    <extension name="coverage">
+      <pattern>
+        <option name="PATTERN" value="gui.*" />
+        <option name="ENABLED" value="true" />
+      </pattern>
+    </extension>
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
