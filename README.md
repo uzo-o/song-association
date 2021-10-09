@@ -1,5 +1,6 @@
 # Song Association
-Elle Magazine's Song Association interview format in a JavaFX game
+![Screenshot of Song Association gameplay](https://live.staticflickr.com/65535/51569513956_be5052c7dd_o.png)
+<br/>Elle Magazine's Song Association interview format in a JavaFX game
 
 ## Description
 Song Association is a game that tests the user's musical knowledge.
@@ -14,6 +15,7 @@ and Spotify links. Play in light mode to match Elle's pretty-in-pink
 aesthetic or in dark mode to rest your eyes. The starting file of 
 525 example words (stored in data folder) can be expanded for
 nearly infinite gameplay.
+<br/>![Game Over screen](https://live.staticflickr.com/65535/51569513946_60cc44740b_o.png)
 
 ## Dependencies
 * [JavaFX](https://openjfx.io/openjfx-docs/)
